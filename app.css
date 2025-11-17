@@ -36,8 +36,8 @@
 .darktheme {
   /* Dark Colors  */
   --accent: #57a0d9; /* Hover color */
-  --background: #19171a; /* Background color */
-  --cards: #201e21; /* Cards color */
+  --background: #000000; /* Background color */
+  --cards: #000000; /* Cards color */
 
   /* Fonts Color */
   --fg: #d8dee9; /* Foreground color */
@@ -327,7 +327,7 @@ body {
 
 /* M E D I A - Q U E R I E S */
 
-@media only screen and (max-width: 68.75em) {
+@media only screen and (max-width: 50em) {
   .container {
     grid-gap: 20px;
     padding: 40px;
